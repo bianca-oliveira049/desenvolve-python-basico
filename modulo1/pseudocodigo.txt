@@ -1,0 +1,12 @@
+PSEUDOCÓDIGO - REGRA DA TABUADA DO 9 - MÓDULO 1 - PROGRAMAÇÃO BÁSICA EM PYTHON
+
+1 - Leia e armazene o valor de n
+2 - 
+3
+4
+5
+6
+7
+8
+9
+10

@@ -1,0 +1,6 @@
+SOLUÇÃO DISSERTATIVA - REGRA DA TABUADA DO 9 - MÓDULO 1 - PROGRAMAÇÃO BÁSICA EM PYTHON
+
+- Leia o valor do número que será multiplicado por 9, que se chamará n;
+- Para o primeiro dígito, subtraia 1 de n, o resultado será o algarismo das dezenas;
+- Para o segundo dígito, subtraia n de 10, o resultado será o algarismo das unidades;
+- Junte os algarismos para formar o número, o primeiro dígito ficará à esquerda e o segundo dígito ficará à direita.
