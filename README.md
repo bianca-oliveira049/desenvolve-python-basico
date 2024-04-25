@@ -1,2 +1,4 @@
-# desenvolve-progbasica-python
-Exercícios de Programação Básica em Python
+# desenvolve-python-basico
+Projeto Desenvolve - Itabira
+Programação Básica em Python
+PDITA049
