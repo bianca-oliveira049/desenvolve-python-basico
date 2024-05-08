@@ -1,0 +1,5 @@
+genero = input("Qual o seu gênero? (M/F) ")
+idade = int(input("Qual a sua idade? "))
+tempo = int(input("Qual o seu tempo de serviço, em anos? "))
+aposentadoria = (genero == "F" and idade >= 60) or (genero == "M" and idade >= 65) or (tempo >= 30) or (idade >= 60 and tempo >= 25)
+print(f"Pode aposentar: {aposentadoria}")

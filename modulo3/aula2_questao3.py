@@ -1,0 +1,5 @@
+idade = int(input("Digite a idade: "))
+numJogos = bool(input("Já jogou pelo menos 3 jogos de tabuleiro? (True/False) "))
+vitorias = int(input("Quantas vitórias o jogador teve? "))
+admissao = (idade >= 16 and idade <= 18) and (numJogos == True) and (vitorias >= 1)
+print(admissao)
