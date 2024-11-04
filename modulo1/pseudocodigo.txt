@@ -1,12 +1,7 @@
 PSEUDOCÓDIGO - REGRA DA TABUADA DO 9 - MÓDULO 1 - PROGRAMAÇÃO BÁSICA EM PYTHON
 
 1 - Leia e armazene o valor de n
-2 - Subtraia 1 de n, esse será o primeiro dígito
-3 - Subtraia n de 10, esse será o segundo dígito
-4 - O resultado será o primeiro dígito multiplicado por 10 somado com o segundo dígito
-5
-6
-7
-8
-9
-10
+2 - Subtraia 1 de n, esse será o primeiro dígito d1
+3 - Subtraia n de 10, esse será o segundo dígito d2
+4 - O resultado será d1 multiplicado por 10 e depois somado com d2
+5 - Imprima o resultado
